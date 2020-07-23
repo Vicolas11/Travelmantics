@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/update_action"
+        android:title="@string/common_google_play_services_update_button" />
+
+    <item
+        android:id="@+id/delete_action"
+        android:title="@string/delete_menu" />
+</menu>
